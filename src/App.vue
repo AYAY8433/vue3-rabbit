@@ -10,7 +10,8 @@ onMounted(() =>{
 </script>
 
 <template>
-   <el-button type="primary">哈哈</el-button>
+  <RouterView/>
+   <!-- <el-button type="primary">哈哈</el-button> -->
 
 </template>
 
